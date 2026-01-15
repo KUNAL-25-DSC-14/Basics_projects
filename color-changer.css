@@ -1,0 +1,51 @@
+.header{
+height:50px;
+  border:solid;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  background-color:gray;
+  border-color:gray;
+  position:absolute;
+  right:0;
+  left:0;
+  top:0;
+}
+.home{
+    background-color:gray;
+    font-family:Arial;
+    padding:10px 35px 10px 35px;
+    border-radius:5px;
+}
+.channel{
+    font-family:Arial;
+    padding:10px 35px 10px 35px;
+    border-radius:5px;
+}
+span {
+  display: block;
+}
+.canvas {
+  margin: 100px auto 100px;
+  width: 80%;
+  text-align: center;
+}
+.button {
+  width: 100px;
+  height: 100px;
+  border: solid black 2px;
+  display: inline-block;
+}
+#grey {
+  background: grey;
+}
+
+#white {
+  background: white;
+}
+#blue {
+  background: blue;
+}
+#yellow {
+  background: yellow;
+}
