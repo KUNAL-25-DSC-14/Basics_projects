@@ -1,3 +1,4 @@
+LINK- https://kunal-25-dsc-14.github.io/Basics_projects/
 # Basics_projects 
 
 A beginner-friendly repository containing **basic web development projects** built using **HTML, CSS, and JavaScript**.  
